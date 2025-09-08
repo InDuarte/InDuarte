@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Gulherme Duarte
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Duarte, tenho 21 anos e sou natural de Brasilia. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Guilherme Duarte](https://www.youtube.com/@GuilhermeDuarte)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Guilherme Duarte, tenho 21 anos e sou natural de Brasilia. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Guilherme Duarte](https://www.youtube.com/@GuilhermeDuarte)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 <p>
     <a href="https://github.com/InDuarte?tab=repositories&sort=stargazers">
         <img 
